@@ -1,0 +1,6 @@
+c:\users\derek\documents\visual studio 2015\Projects\B14_PutUpAParkingLot\B14_PutUpAParkingLot\bin\Debug\B14_PutUpAParkingLot.exe.config
+c:\users\derek\documents\visual studio 2015\Projects\B14_PutUpAParkingLot\B14_PutUpAParkingLot\obj\Debug\B14_PutUpAParkingLot.csprojResolveAssemblyReference.cache
+c:\users\derek\documents\visual studio 2015\Projects\B14_PutUpAParkingLot\B14_PutUpAParkingLot\bin\Debug\B14_PutUpAParkingLot.exe
+c:\users\derek\documents\visual studio 2015\Projects\B14_PutUpAParkingLot\B14_PutUpAParkingLot\bin\Debug\B14_PutUpAParkingLot.pdb
+c:\users\derek\documents\visual studio 2015\Projects\B14_PutUpAParkingLot\B14_PutUpAParkingLot\obj\Debug\B14_PutUpAParkingLot.exe
+c:\users\derek\documents\visual studio 2015\Projects\B14_PutUpAParkingLot\B14_PutUpAParkingLot\obj\Debug\B14_PutUpAParkingLot.pdb
